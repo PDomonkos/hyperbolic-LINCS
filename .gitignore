@@ -1,0 +1,8 @@
+*.pkl
+*.npy
+*.gctx
+*.csv
+*.tsv
+*.png
+
+__pycache__/
