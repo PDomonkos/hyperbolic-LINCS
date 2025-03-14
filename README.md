@@ -1,8 +1,10 @@
 # Hyperbolic Nature of Differential Expression Signatures
 
-Analysis of LINCS DEG signatures for the paper "Hyperbolic Nature of Differential Expression Signatures"
+Analysis of LINCS DEG signatures for the paper "Hyperbolic Nature of Differential Expression Signatures".
 
 Contact Information: pogany@mit.bme.hu
+
+<div style="text-align:center" width="400"><img width="400" src="visual abstract.png" class="center"/></div>
 
 ## Data accession
 
